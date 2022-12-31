@@ -1,15 +1,15 @@
 # What just happened?!? It's Blueberry 👋 
 
-[![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev)
+[![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev)]
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=blu3berry94%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)]
 
-## Connect Me:
+## Connect with me:
 
 [![website](./img/globe-light.svg)](https://blueberry.is-a.dev)
 [![website](./img/globe-light.svg)](https://blu3berry94.github.io)
 
-### Languages/Tools:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
