@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=blu3berry%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://blueberry.is-a.dev)
-
 ## Connect with me:
 
 [![website](./img/globe-light.svg)](https://blueberry.is-a.dev)
