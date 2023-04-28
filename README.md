@@ -5,7 +5,6 @@
 ## Connect with me:
 
 [![website](./img/globe-light.svg)](https://blueberry.is-a.dev)
-[![website](./img/globe-dark.svg)](https://blu3berry94.github.io)
 
 
 ### Languages and Tools:
