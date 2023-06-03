@@ -9,5 +9,5 @@
 ---
   <img align="left" alt="blu3berry94's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blu3berry94&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev) ![Fallens](https://img.shields.io/website?label=Fallens.PW&style=for-the-badge&url=https%3A%2F%2FDed) ![Unknown](https://img.shields.io/website?label=Unkown&style=for-the-badge&url=https%3A%2F%2FDown) ![Unknown](https://img.shields.io/website?label=Unknown&style=for-the-badge&url=https%3A%2F%2FDown)
+[![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev) ![Fallens](https://img.shields.io/website?label=Fallens.PW&style=for-the-badge&url=https%3A%2F%2FDed)
 
