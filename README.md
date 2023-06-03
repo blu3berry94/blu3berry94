@@ -1,8 +1,10 @@
 <div align="center">
 
   ![banner](https://raw.githubusercontent.com/blu3berry94/blu3berry94/main/blub_banner.jpg)
-  ![Languages & Tools]
-  [![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,sass,mysql)](https://skillicons.dev)
+  Tools
+  [![My Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio)](https://skillicons.dev)
+  Skills
+  [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,py,html,css,sass,mysql)](https://skillicons.dev)
 </div>
 
 ---
