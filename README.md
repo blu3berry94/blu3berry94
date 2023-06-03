@@ -1,7 +1,7 @@
 <div align="center">
 
   ![banner](https://raw.githubusercontent.com/blu3berry94/blu3berry94/main/blub_banner.jpg)
-  <p style="font-size: 35px;">Tools</p>
+  <p style="font-size: 35px;">Tools
   [![My Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio)](https://skillicons.dev)
   <br>
   [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,py,html,css,sass,mysql)](https://skillicons.dev)
