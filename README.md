@@ -1,8 +1,7 @@
 <div align="center">
 
   ![banner](https://raw.githubusercontent.com/blu3berry94/blu3berry94/main/blub_banner.jpg)
-  # What just happened?!? It's Blueberry 👋 
-  ## Languages and Tools:
+  ![Languages & Tools]
   [![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,sass,mysql)](https://skillicons.dev)
 </div>
 
