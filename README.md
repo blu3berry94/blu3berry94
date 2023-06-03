@@ -10,6 +10,5 @@
 
 ---
 
-[![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev)
+[![Website](https://img.shields.io/website?label=blueberry.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fblueberry.is-a.dev)](https://blueberry.is-a.dev)![Fallens](https://img.shields.io/website?label=Fallens.PW&style=for-the-badge&url=https%3A%2F%2FDown)
 
-![Fallens](https://img.shields.io/website?label=Fallens.PW&style=for-the-badge&url=https%3A%2F%2FDown)
