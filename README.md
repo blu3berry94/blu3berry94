@@ -1,9 +1,9 @@
 <div align="center">
 
   ![banner](https://raw.githubusercontent.com/blu3berry94/blu3berry94/main/blub_banner.jpg)
-  [![My Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio)](https://skillicons.dev)
+  [![My Tools](https://skillicons.dev/icons?i=vscode,idea,visualstudio)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,py,html,css,sass,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,cpp,js,py,html,css,sass)](https://skillicons.dev)
 </div>
 
 ---
